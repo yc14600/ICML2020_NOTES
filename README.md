@@ -1,3 +1,5 @@
+# ICML 2020 Notes
+
 ## Representation Learning
 
 1. [Distance Metric Learning with Joint Representation Diversification](https://proceedings.icml.cc/static/paper_files/icml/2020/4066-Paper.pdf): i). propose a Distance Metric Learning with Joint Representation Diversification (JRD) that allows a better balancing point between intra-class compactness and inter-class separability (which composed by [AMSoftmax](https://arxiv.org/abs/1801.09414) loss and the proposed JRS regularizer); ii). propose a Joint Representation Similarity regularizer (kernel inner product of output of layers with sample pairs from different classes) that captures different abstract levels of invariant features and diversifies the joint distributions of representations across multiple layer.
